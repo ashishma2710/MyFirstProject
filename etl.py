@@ -2,7 +2,6 @@ import requests # type: ignore
 import pandas as pd # type: ignore 
 from sqlalchemy import create_engine # type: ignore
 
-
 # MySQL connection
 username = "ashish"
 password = "Maurya271097"
